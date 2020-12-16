@@ -1,0 +1,11 @@
+QUERY,index,baseline_clean,baseline_lemm,baseline_noun,LSI_clean,LSI_lemm,LSI_noun,LDA_clean,LDA_lemm,LDA_noun,BML_clean,BML_lemm,BML_noun
+what is a virtual safety car? ,0,0,0,0,0,0,0,0,1,0,1,1,0
+what is a virtual safety car? ,1,0,0,1,2,2,2,1,2,0,0,0,0
+what is a virtual safety car? ,2,0,0,-1,1,1,1,-2,-2,-1,0,0,0
+what is a virtual safety car? ,3,0,2,1,2,2,2,-1,2,-2,2,2,0
+what is a virtual safety car? ,4,1,1,0,0,0,0,2,-1,-1,2,2,-1
+what is a virtual safety car? ,5,2,2,-2,2,2,2,2,1,0,2,2,0
+what is a virtual safety car? ,6,-1,2,-2,1,2,1,0,1,-2,0,2,0
+what is a virtual safety car? ,7,2,2,-2,2,1,2,1,0,-2,-1,2,-1
+what is a virtual safety car? ,8,1,2,0,2,1,1,1,1,-1,1,1,-2
+what is a virtual safety car? ,9,2,2,1,1,-2,2,-1,2,-2,2,2,-1
